@@ -58,7 +58,5 @@
 <a href="site:https://survey.unimed.ac.id/css/zeus/">https://survey.unimed.ac.id/css/zeus/</a>
 <a href="site:https://survey.unimed.ac.id/css/situs/">https://survey.unimed.ac.id/css/situs/</a>
 <a href="site:https://survey.unimed.ac.id/logs/pink/">https://survey.unimed.ac.id/logs/pink/</a>
-<a href="site:https://fisika.unimed.ac.id/wp-content/ciputra/
-">https://fisika.unimed.ac.id/wp-content/ciputra/
-</a>
+<a href="site:https://fisika.unimed.ac.id/wp-content/ciputra/">https://fisika.unimed.ac.id/wp-content/ciputra/</a>
 </div>
