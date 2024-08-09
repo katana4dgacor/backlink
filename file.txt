@@ -58,4 +58,5 @@
 <a href=":https://survey.unimed.ac.id/css/situs/">https://survey.unimed.ac.id/css/situs/</a>
 <a href=":https://survey.unimed.ac.id/logs/pink/">https://survey.unimed.ac.id/logs/pink/</a>
 <a href=":https://fisika.unimed.ac.id/wp-content/ciputra/">https://fisika.unimed.ac.id/wp-content/ciputra/</a>
+<a href=":https://arjosari.opendesa.id/shitam/">Scatter Hitam</a>
 </div>
